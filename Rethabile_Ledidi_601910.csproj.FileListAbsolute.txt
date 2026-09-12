@@ -1,0 +1,10 @@
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\bin\Debug\Rethabile_Ledidi_601910.exe.config
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\bin\Debug\Rethabile_Ledidi_601910.exe
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\bin\Debug\Rethabile_Ledidi_601910.pdb
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.csproj.AssemblyReference.cache
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.Form1.resources
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.Properties.Resources.resources
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.csproj.GenerateResource.cache
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.csproj.CoreCompileInputs.cache
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.exe
+C:\Users\samro\Desktop\New folder\Rethabile_Ledidi_601910\Rethabile_Ledidi_601910\obj\Debug\Rethabile_Ledidi_601910.pdb
